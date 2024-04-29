@@ -7,8 +7,11 @@ This dataset contains layoff data from around the world.
 2. Standardize the Data
 3. Handle Null or Blank Values
 4. Remove Irrelevant Columns (with caution)
+
 */
 
+
+-- Display all data from the "Layoffs" table
 SELECT *
 FROM Layoffs;
 
